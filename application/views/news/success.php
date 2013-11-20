@@ -1,0 +1,1 @@
+La news a été créée avec succès !
